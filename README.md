@@ -8,6 +8,8 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C_{1a}$, $C_{1b}$).
 
+**IMPORTANT NOTE**: while submissions to this site are reviewed to meet minimal standards of plausibility and replicability, they are not certified by this site for correctness, and may be subject to future revision, for instance due to errors in the associated preprint or paper.  Thus, readers should exercise their own judgement when assessing the validity of the bounds reported on this site, particularly if their source is not yet published by a peer-reviewed journal.
+
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
 | [1a](https://teorth.github.io/optimizationproblems/constants/1a.html) | Sidon set autocorrelation constant | 1.2802 | 1.5029 |
