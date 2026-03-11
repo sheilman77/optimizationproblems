@@ -115,6 +115,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [78](https://teorth.github.io/optimizationproblems/constants/78a.html) | Conway thrackle constant | 1 | 1.393 |
 | [79](https://teorth.github.io/optimizationproblems/constants/79a.html) | Asymptotic essential-dimension ratio of the symmetric groups | $\frac{1}{2}$ | 1 |
 | [80](https://teorth.github.io/optimizationproblems/constants/80a.html) | Ising perceptron capacity threshold | >0 (0.833*) | 0.847 (0.833*) |
+| [81](https://teorth.github.io/optimizationproblems/constants/81a.html) | Brun's constant | 1.840503 | 2.288513 |
 
 
 ## Recent progress
